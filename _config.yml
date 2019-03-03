@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme: "mmistakes/minimal-mistakes@4.15.2"
+remote_theme: "tw3rp/minimal-mistakes@4.15.2"
 title: Distributed systems engineering
 title_separator: "-"
 email: rahuldprabhu@gmail.com
