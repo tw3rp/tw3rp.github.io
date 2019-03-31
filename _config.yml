@@ -3,7 +3,7 @@ title_left    : "Rahul"
 title_right   : "Prabhu" # default: ""
 description   : "SRE"
 keywords      : "systems, engineering, hacks, fixes, workarounds, architechture"
-url           : https://tw3rp.github.io # site url
+url           : https://rprabhu.dev # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
