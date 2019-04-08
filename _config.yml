@@ -9,8 +9,8 @@ cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-68675805-2
 twitter_username  : "tw3rp"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
+comments_enabled  : true # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : "rprabhu-dev"
 postshare_enabled : true
 
 # Build settings
